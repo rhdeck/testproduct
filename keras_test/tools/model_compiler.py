@@ -8,7 +8,7 @@ from keras import backend as K
 import sys
 import os 
 
-print('Arguments:', sys.argv)
+print('I like Arguments:', sys.argv)
 num_classes = 10
 modelName = ""
 
